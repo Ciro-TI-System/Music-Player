@@ -16,6 +16,7 @@ body * {
   font-family: "Roboto", sans-serif;
 }
 
+/* app id */
 #app {
   display: grid;
   grid-template-columns: max-content max-content;
@@ -34,13 +35,14 @@ body * {
 }
 
 #player-1 .wrapper {
-  width: 198px;
+  width: 190px;
 }
 
 #player-1 img {
   width: 190px;
   height: 190px;
   object-fit: cover;
+
   border-radius: 6px;
 }
 
