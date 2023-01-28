@@ -2,10 +2,16 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   background-color: #0f0d13;
+}
+
+body * {
+  font-family: "Roboto", sans-serif;
 }
 
 #app {
@@ -23,6 +29,10 @@ body {
 #player-1 {
   grid-area: A;
   padding: 50px 38px;
+}
+
+#player-1 .wrapper {
+  width: 190px;
 }
 
 #player-1 img {
@@ -46,6 +56,16 @@ body {
   padding: 28px;
 }
 
-#player-1 .wrapper {
-  width: 190px;
+.info {
+  color: #e1e1e6;
+}
+
+.info h1 {
+  font-size: 24px;
+  margin-bottom: 9.6px;
+}
+
+.info p {
+  opacity: 0.67;
+  font-size: 19px;
 }
