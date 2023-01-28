@@ -22,6 +22,7 @@ body {
 /* player-1 */
 #player-1 {
   grid-area: A;
+  padding: 50px 38px;
 }
 
 /* player-2 */
@@ -32,4 +33,10 @@ body {
 /* player-3 */
 #player-3 {
   grid-area: C;
+}
+
+.player {
+  background-color: #2a2141;
+  padding: 28px;
+  border-radius: 10px;
 }
