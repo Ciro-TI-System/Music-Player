@@ -15,7 +15,7 @@ A project to develop a Music Player screen.
 <br>
 
 <p align="center">
-  <img src=".github/Music Player.jpg" width="100%">
+  <img src=".github/Music-Player.jpg" width="100%">
 </p>
 
 ---
@@ -32,7 +32,7 @@ A project to develop a Music Player screen.
 
 Music Player is a project to develop a music player screen.
 
-- [Acesse o projeto finalizado, online](https://Ciro-TI-System.github.io/musicplayer)
+- [Acesse o projeto finalizado, online](https://Ciro-TI-System.github.io/MusicPlayer)
 
 ---
 
